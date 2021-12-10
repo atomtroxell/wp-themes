@@ -1,0 +1,31 @@
+{
+  "name": "ws-starter",
+  "version": "3.1.0",
+  "description": "Web Solutions starter package for site construction.",
+  "author": "LRS Web Solutions",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/lrswebsolutions/ws-starter"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "clean-css": "^4.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-string-replace": "^1.1.2",
+    "gulp-wait": "0.0.2",
+    "npm-check-updates": "^2.14.2",
+    "postcss-pixels-to-rem": "^0.8.0",
+    "postcss-pxtorem": "^4.0.1"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ws-starter",
+  "version": "3.0.0",
+  "private": "true",
+  "dependencies": {
+    "normalize-css": "latest",
+    "jquery": "https://github.com/jquery/jquery.git",
+    "enquire": "latest",
+    "magnific-popup": "latest",
+    "glider-js": "https://github.com/NickPiscitelli/Glider.js.git"
+  },
+  "install": {
+    "path": {
+      "css": "assets/src/scss/vendor",
+      "js": "assets/src/js/vendor"
+    }
+  }
+}
